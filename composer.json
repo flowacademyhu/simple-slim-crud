@@ -1,0 +1,13 @@
+{
+    "name": "flowacademy/simple-slim-crud",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Tasnádi Zsolt",
+            "email": "tasi@syrakuza.hu"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.11"
+    }
+}
